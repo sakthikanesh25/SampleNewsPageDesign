@@ -1,10 +1,10 @@
 <!doctype html>
 <html>
 	<head>
-		<title>News</title>
-		<meta charset="utf-8"/>
-		<meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
-		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<title>News</title>
+	<meta charset="utf-8"/>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
       <style type="text/css">*,
         *:before,
         *:after {
@@ -155,7 +155,6 @@
 
               let responseHTML = "";
               Object.values(response)[0].forEach( (element,index,array) => {
-                console.log(element,index,array);
                 responseHTML = ` ${responseHTML}   <div class="fp-cell fp-cell--${index === 0 ? 1 : 2}">
                                         <div class="fp-item" ${element.main ? '' : 'style="overflow:hidden"'}>
                                             <p><img class="${element.main ? 'contentImg' : 'sideDivImg'}" src="${element.Imageurl}" /></p>
