@@ -1,0 +1,27 @@
+articles = {
+	"Articles": [{
+	  "Imageurl": "images/test2.jpg",
+	  "Title": "Insect experts in every district soon to prevent dengue, chikungunya outbreaks.The Centre in Puducherry, which is the only institute to offer a master’s degree in public health entomology. (File image)",
+	  "Content": "As per the revised government policy, each district of the country should have at least one trained entomologist to successfully drive the vector control initiatives ...                   In view of rising vector borne disease outbreaks including dengue and Chikungunya outbreaks in many parts of the country over the years, the health ministry is in the process of creating adequate number of well-trained entomologists— insect experts— to help states in implementing effective vector control measures.                      As per the revised government policy, each district of the country should have at least one trained entomologist to successfully drive the vector control initiatives under the public health system even though there is enormous demand and supply gap as there are at least 700 districts in the country but not more than 50 working entomologists.                      .......",
+	  "Published": "2m",
+	  "main": true
+	}, {
+	  "Imageurl": "images/test1.png",
+	  "Title": "Saji Cheriyan quits as Kerala minister amid outrage over Constitution remarks",
+	  "Content": "Saji Cheriyan resigned as Kerala's culture minister on Wednesday, a day after he courted controversy over his remarks on the Constitution, triggering a huge political row in the southern state....",
+	  "Published": "1hr",
+	  "main": true
+	}, {
+	  "Imageurl": "images/test3.jpg",
+	  "Title": "Could Sena MPs be next? After backing to Murmu by one, voices suggest more trouble for Uddhav",
+	  "Content": "",
+	  "Published": "1hr",
+	  "main": false
+	}, {
+	  "Imageurl": "images/test4.jpg",
+	  "Title": "To test alertness of staff, Delhi police will ‘plant’ dummy IEDs in areas that see high footfall",
+	  "Content": "",
+	  "Published": "1hr",
+	  "main": false
+	}]
+ }
